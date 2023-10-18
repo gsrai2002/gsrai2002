@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://gsrai2002.github.io/Portfolio/portfolio.html](https://gsrai2002.github.io/Portfolio/portfolio.html)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://gsrai2002.github.io/Portfolio/portfolio.html)
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **gsrai082002@gmail.com**
 
-- 📄 Know about my experiences [https://gsrai2002.github.io](https://gsrai2002.github.io)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Hksna2vJw60dBavGCQHFrEkgtlmB7bix/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
